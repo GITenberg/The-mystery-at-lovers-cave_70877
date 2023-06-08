@@ -1,0 +1,24 @@
+_repo: The-mystery-at-lovers-cave_70877
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Berkeley, Anthony
+    gutenberg_agent_id: '55972'
+    url: http://www.gutenberg.org/2009/agents/55972
+description: ''
+gutenberg_issued: '2023-05-28'
+identifiers:
+  gutenberg: '70877'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/000286372
+pgterms:marc905: 20230526131604berkeley
+pgterms:marc906: '1927'
+pgterms:marc907: US
+publication_note: '  $aUnited States :$bSimon and Schuster, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The mystery at lovers' cave
+url: http://www.gutenberg.org/ebooks/70877
